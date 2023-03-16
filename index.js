@@ -1,1 +1,3 @@
-alert("cu")
+<script>
+ alert("Cu")
+</script>
