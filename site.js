@@ -1,0 +1,1 @@
+NomesIa = ["Natsuki", "Yuki", "Kazuya", "Kaneda", "Akira", "Satoshi", "Risa", "Hiroki", "Mitsuki", "Fukishima", "Kenshin", "Shintaro", "Miyako", "Masaaki", "Aiko", "Muneo", "Hiroto", "Masaki", "Kiyoko", "Atsushi"];
